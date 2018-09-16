@@ -1,2 +1,0 @@
-# spam
-Spam mantan :v
