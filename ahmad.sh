@@ -28,7 +28,6 @@ echo "Contact  : ahmadmazulpahwan7@gmail.com" | lolcat
 echo "Contact  : Whats App 081356626976" | lolcat
 echo "Contact  : Instagram @AhmadMazulpahwan7" | lolcat
 echo "Team     : Muslim Cyber Army" | lolcat
-echo "Team     : Teampoison Cyber Indonesia" | lolcat
 echo "Team     :  Cyber Sulawesi Hacker" | lolcat
 echo $b"*______________________________________*"
 echo ""
